@@ -36,7 +36,7 @@ under the License.
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<lombok.version>1.16.20</lombok.version>
-		<postgresql-jdbc.version>42.1.4</postgresql-jdbc.version>
+		<postgresql-jdbc.version>42.3.3</postgresql-jdbc.version>
 	</properties>
 
 
